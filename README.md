@@ -1,5 +1,5 @@
 # Control y seguimiento de la transmisión del dengue a través del mosquito tigre
-Este repositorio incluye todos los scrpits necesarios para replicar la fases de curación y limpieza de los datos y su respectivo análisis.
+Este repositorio incluye todos los *scripts* necesarios para replicar la fases de curación y limpieza de los datos y su respectivo análisis.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2545887.svg)](https://doi.org/10.5281/zenodo.2545887)
 
